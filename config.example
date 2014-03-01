@@ -1,0 +1,6 @@
+{
+	"host": "mail server",
+	"port": 23,
+	"mailhost": "hosting mail server",
+	"mailfrom": "sender mail address"
+}
